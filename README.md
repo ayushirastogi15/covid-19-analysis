@@ -8,3 +8,5 @@ This repo includes the exploratory data analysis and interesting visualizations 
 
 4. **"Covid-19 Data"** - This notebook is about the analysis of each & every country where the cases has been confirmed. It shows us which country has what percentage of cases out of the total cases all over the world. It gives us the answers of various questions like - **What are the top 10 countries where there is a high risk of infection or in other words where there is a high spread rate so to look after them more carefully ?** ; **What are the top 10 countries where there is a high death rate so to look after those countries & try to find out the reason behind it ?** ; **What are those countries where the recovery rate is high as there maybe less chance of infection or the people living there have strong immunity so to know the kind of medication they are getting which may help other countries in reducing the cases ?** etc.
 
+The dataset for the above analysis is taken from the below link which is provided by **Mr. Sudalai Rajkumar (SRK)** on the Kaggle platform.
+Link:- https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
