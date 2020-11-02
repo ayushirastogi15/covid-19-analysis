@@ -8,6 +8,8 @@ This notebook provides you the analysis of Indian States - how the positive case
 
 ## **Covid-19 Flattening the curve** 
 This notebook gives you the idea about flattening the curve, by how much amount we need to lower the cases so to easily handle the increasing cases. It also gives you the capacity of patients (number of available hospital beds in each state & how many more we needed (if any)). It is available on the day-to-day basis as well as on the basis so to get an overview of this.
+![active cases](https://github.com/ayushirastogi15/covid-19-analysis/blob/master/images/daily_active_cases.png)
+
 
 ## **Covid-19 Bar Chart Race** 
 It shows you the bar chart race of Indian states which shows us that how the confirmed or positive corona cases has been increasing day by day in each & every state.
