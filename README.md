@@ -14,14 +14,7 @@ This notebook gives you the idea about flattening the curve, by how much amount 
 ## **Covid-19 Bar Chart Race** 
 It shows you the bar chart race of Indian states which shows us that how the confirmed or positive corona cases has been increasing day by day in each & every state.
 
-![bar chart](https://drive.google.com/file/d/1WoM3HQweWXMg5G7aWarZ8DjWJeUyzzDQ/view?usp=sharing)
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1WoM3HQweWXMg5G7aWarZ8DjWJeUyzzDQ/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
+![Bar chart Race of Indian States](https://drive.google.com/file/d/1WoM3HQweWXMg5G7aWarZ8DjWJeUyzzDQ/view?usp=sharing)
 
 
 ## **Covid-19 Data** 
