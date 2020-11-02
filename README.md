@@ -1,5 +1,7 @@
 # Covid-19-Analysis-And-Visualization
 This repo includes the exploratory data analysis and interesting visualizations to better understand the data, to understand what the data is trying to saying &amp; finding its hidden insights and patterns. This repository includes 4 notebooks in which I have shown the analysis on the data of India & all over the World, give the idea about the capacity of patients a state can sustain and the bar chart race of India states.
+![india map](https://github.com/ayushirastogi15/covid-19-analysis/blob/master/images/india-map.jpg)
+
 
 ## **Covid-19 EDA on India data** 
 This notebook provides you the analysis of Indian States - how the positive cases have increased till the date, what are the active cases of each state per day, what are the total active cases in India on a day-to-day basis. What is the percentage of population that has been infected till the date.
